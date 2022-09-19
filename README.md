@@ -1,2 +1,2 @@
 Copy this template by writing
-`npx degit vibemenu/app-counter my-app`
+`npx degit poxi/kanye my-app`
